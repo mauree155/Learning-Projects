@@ -1,1 +1,1 @@
-# SQL-Learning-Projects
+# Learning-Projects
